@@ -16,11 +16,11 @@ const Contact = () => {
                         <div className="contact-details">
                             <div className="detail-item">
                                 <span className="icon">📧</span>
-                                <span>hello@johndoe.dev</span>
+                                <span>trung@example.com</span>
                             </div>
                             <div className="detail-item">
                                 <span className="icon">📍</span>
-                                <span>San Francisco, CA</span>
+                                <span>Vietnam</span>
                             </div>
                         </div>
                         <div className="social-links">
