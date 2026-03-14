@@ -212,6 +212,20 @@
     }
 }
 
+@media (prefers-reduced-motion: reduce) {
+    .blob {
+        animation: none;
+    }
+
+    .wheel {
+        animation: none;
+    }
+
+    .code-card {
+        transition: none;
+    }
+}
+
 @media (max-width: 968px) {
     .hero-container {
         flex-direction: column-reverse;

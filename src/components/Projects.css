@@ -1,6 +1,6 @@
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 40px;
 }
 
@@ -36,7 +36,12 @@
 .project3 {
     background: linear-gradient(45deg, #8e2de2, #4a00e0);
 }
-
+.project4 {
+    background: linear-gradient(45deg, #302de2, #4a00e0);
+}
+.project5 {
+    background: linear-gradient(45deg, #e2942d, #e60505);
+}
 .overlay {
     position: absolute;
     top: 0;
