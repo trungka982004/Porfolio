@@ -13,7 +13,7 @@ export const projects = [
     description: 'TODO task management app with VueJS and a modern UI.',
     tech: ['VueJS', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind'],
     imageKey: 'project2',
-    liveUrl: 'https://todoapp-vuejs-seven.vercel.app/',
+    liveUrl: 'https://trung-todo.vercel.app/',
     githubUrl: 'https://github.com/trungka982004/TODOAPP_VUEJS.git',
   },
   {
@@ -21,7 +21,7 @@ export const projects = [
     description: 'A modern, responsive portfolio website to showcase creative work.',
     tech: ['React', 'Three.js', 'GSAP'],
     imageKey: 'project3',
-    liveUrl: '#',
+    liveUrl: 'https://trung-portfolio.vercel.app/',
     githubUrl: 'https://github.com/trungka982004/Porfolio.git',
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     description: 'A subtitles management system that allows users to manage subtitles for their videos.',
     tech: ['React', 'Tailwind', 'Python', 'Express', 'PostgreSQL'],
     imageKey: 'project4',
-    liveUrl: '#',
+    liveUrl: 'https://trung-subtitles.vercel.app/',
     githubUrl: 'https://github.com/trungka982004/Subtitlesmanagementsystem.git',
   },
   {

@@ -9,14 +9,12 @@ const About = () => {
       <div className="container about-container">
         <div className="about-image">
           <div className="img-placeholder">
-            <span>
-              <img
-                src={Image}
-                alt={personalInfo.name}
-                className="avatar-img"
-                loading="lazy"
-              />
-            </span>
+            <img
+              src={Image}
+              alt={personalInfo.name}
+              className="avatar-img"
+              loading="lazy"
+            />
           </div>
         </div>
         <div className="about-content">
