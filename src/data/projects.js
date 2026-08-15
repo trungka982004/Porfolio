@@ -40,5 +40,21 @@ export const projects = [
     liveUrl: 'https://finalterm-project-phi.vercel.app/',
     githubUrl: 'https://github.com/trungka982004/Finalterm.git',
   },
+  {
+    title: 'JS Projects Hub',
+    description:
+      'A premium collection of 13 interactive mini-applications built with Vanilla JavaScript, HTML5, and CSS3, showcasing various web development concepts and games.',
+    tech: ['JavaScript', 'HTML5', 'CSS3'],
+    imageKey: 'project6',
+    liveUrl: 'https://udemy-jsapp.vercel.app/',
+    githubUrl: 'https://github.com/trungka982004/Udemy_jsapp.git',
+  },
+  {
+    title: 'Netflux Project',
+    description: 'A netflix clone application project that allows users to watch movies online.',
+    tech: ['Vite', 'TypeScript', 'React', 'shadcn-ui', 'Tailwind CSS'],
+    imageKey: 'project7',
+    liveUrl: 'https://netflux.lovable.app/',
+    githubUrl: 'https://github.com/trungka982004/netflux.git',
+  },
 ]
-
