@@ -57,4 +57,12 @@ export const projects = [
     liveUrl: 'https://netflux.lovable.app/',
     githubUrl: 'https://github.com/trungka982004/netflux.git',
   },
+  {
+    title: 'Pomodoro App',
+    description: 'A Pomodoro timer application that helps users focus on their work.',
+    tech: ['React Native', 'Expo', 'TypeScript'],
+    imageKey: 'project8',
+    liveUrl: 'https://github.com/trungka982004/pomodoro.git',
+    githubUrl: 'https://github.com/trungka982004/pomodoro.git',
+  }
 ]

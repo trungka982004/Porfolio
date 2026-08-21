@@ -6,11 +6,14 @@ const Skills = () => {
   return (
     <section id="skills" className="section skills" data-reveal>
       <div className="container">
-        <h2 className="section-title">Technical Skills</h2>
+        <h2 className="section-title skills-title">Technical Skills</h2>
         <div className="skills-grid">
           {skillsData.map((category) => (
             <div key={category.category} className="skill-card">
-              <h3 className="skill-category">{category.category}</h3>
+              <div className="skill-header">
+                <h3 className="skill-category">{category.category}</h3>
+                <div className="category-line"></div>
+              </div>
               <div className="skill-items">
                 {category.items.map((item) => (
                   <span key={item} className="skill-badge">
