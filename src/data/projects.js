@@ -64,5 +64,14 @@ export const projects = [
     imageKey: 'project8',
     liveUrl: 'https://github.com/trungka982004/pomodoro.git',
     githubUrl: 'https://github.com/trungka982004/pomodoro.git',
-  }
+  },
+  {
+    title: 'Habitual - Habit Tracker',
+    description:
+      'A local-first habit tracking PWA with MongoDB sync, streak analytics, routine stacks, and offline reflection journal.',
+    tech: ['Next.js', 'React', 'TypeScript', 'MongoDB', 'PWA'],
+    imageKey: 'project9',
+    liveUrl: 'https://habit-tracker.522h0071.workers.dev',
+    githubUrl: 'https://github.com/trungka982004/habit-tracker.git',
+  },
 ]
